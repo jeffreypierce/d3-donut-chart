@@ -1,0 +1,26 @@
+{
+  "name": "d3-donut-chart",
+  "main": "d3-donut-chart.min.js",
+  "version": "0.1.0",
+  "authors": [
+    "jeffrey@jeffreypierce.net"
+  ],
+  "description": "A simple, configurable, animatable chart build with d3.js",
+  "keywords": [
+    "javascript",
+    "d3",
+    "donuts",
+    "charts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.1"
+  }
+}
