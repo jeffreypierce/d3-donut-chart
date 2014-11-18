@@ -13,7 +13,7 @@ Where `selector` is a id or class of a DOM node, `settings` (optional) is an obj
 ```
 [['JavaScript', 30], ['C++', 10], ['Ruby', 15], ['Python', 20]]
 ```
-A live example can be viewed [here](...)
+A live example can be viewed [here](http://jeffreypierce.net/d3-donut-chart/)
 
 #### Configuration Options
 
